@@ -1,6 +1,6 @@
 1. Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/photo-filter
 2. Screenshot:  ![ ](https://clck.ru/UMkSm)
-3. Deploy: https://rolling-scopes-school.github.io/dzmitrykaporski-JSFE2021Q1/photo-filter/
+3. Deploy:  https://dzmitrykaporski.github.io/photo-filter/
 4. Done 2021-03-23  / Deadline: 2021-04-27 
 5. Score: 60 / 60
 6. Критерии оценки:
